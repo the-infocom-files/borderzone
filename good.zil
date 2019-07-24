@@ -415,7 +415,7 @@ Perhaps where there's smoke there will be warmth.">)>
 		<BOLDTELL "You're feeling a lot warmer now.">)>>
 
 <GLOBAL WARMTH-TBL
-	<PTABLE "You're shaking uncontrollably from the cold. It won't be long before you are competely incapacitated."
+	<PTABLE "You're shaking uncontrollably from the cold. It won't be long before you are completely incapacitated."
 	       "You're shivering badly. If you don't find some warmth soon, it's hard to see how you can go on."
 	       "Your teeth start to chatter from the cold; you are clearly slowing down, both physically and mentally."
 	       "You've got quite a chill; you must move now to keep warm, but even this is not enough."
