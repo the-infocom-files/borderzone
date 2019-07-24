@@ -601,7 +601,7 @@ the back room and take you into custody." CR>
 	 <COND (<VERB? LISTEN FOLLOW EXAMINE>
 		<TELL
 "You can't make out every word, but the police are questioning your friend
-about certain acquaintences, affiliations, and the like." CR>)
+about certain acquaintances, affiliations, and the like." CR>)
 	       (T
 		<TELL "Bizarre." CR>)>>
 
