@@ -109,7 +109,7 @@ distance the darkness that is Litzenburg.">)
 	       (<EQUAL? .RM ,PLATFORM-4>
 		<TELL CR CR
 "You've arrived at the platform's southern end, and can look back into
-Frobnia, sighting its formidible border defenses: guard towers, searchlights,
+Frobnia, sighting its formidable border defenses: guard towers, searchlights,
 patrols, guard dogs - God knows what else. It's a whole lot better to have a
 ticket, and you smile, realizing that it's not easy this way either.">)>
 	 <CRLF>
