@@ -3530,7 +3530,7 @@ preparing to depart." CR>)>>
 inexpensively built hut like this." CR>)
 	       (<VERB? KNOCK>
 		<TELL
-"Not smart; sombody might hear you." CR>)
+"Not smart; somebody might hear you." CR>)
 	       (<VERB? MUNG KICK>
 		<TELL
 "Not smart. If somebody's home, you're in big trouble, and if nobody's
