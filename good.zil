@@ -1315,7 +1315,7 @@ the rear of the hut. Fortunately, he isn't looking inside."
 		      BEHIND-HUT>
 	       <PTABLE ROAD-END HUT-BEDROOM
 		      "You can see a single guard slowly walking around the back side of the hut to the south side of the hut."
-		      "Through the window, a lone guard comes into view, awalking slowly toward the front of the hut. Fortunately, he isn't looking in your direction." 
+		      "Through the window, a lone guard comes into view, walking slowly toward the front of the hut. Fortunately, he isn't looking in your direction." 
 		      SOUTH-HUT>
 	       <PTABLE NORTH-HUT 0
 		      "You watch as the lone guard returns to the group. He appears relieved that he has nothing to report."
