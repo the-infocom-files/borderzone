@@ -2602,7 +2602,7 @@ of the hall.")
       (DESC "Hallway, South")
       (FDESC "southern part of the hallway")
       (LDESC
-"You are about one-third of the way betwween the southern and northern
+"You are about one-third of the way between the southern and northern
 ends of the hallway. Doors are on both sides of you, east and west.")
       (NORTH TO HALL-3 IF FALSE-FLAG ELSE
 "You continue down the hall to the next set of doorways, one to the east
