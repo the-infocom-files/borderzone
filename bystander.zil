@@ -1798,7 +1798,7 @@ Copyright (c) 1987, Infocom, Inc.|
 	 <COND (<VERB? EXAMINE>
 		<TELL
 "It's your ordinary metal towel dispenser. Here, as in the States, people
-tend to write grafitti on towel dispensers, and this one is no exception.">
+tend to write graffiti on towel dispensers, and this one is no exception.">
 		<COND (<IN? ,PAPER-TOWEL ,PRSO>
 		       <TELL
 " You are in luck - there's at least one paper towel inside.">)
