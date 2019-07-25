@@ -4381,7 +4381,7 @@ continues along here to the southwest.")
 face. The road bends to the east here, but a narrow spur continues north.")
       (NE TO E6 IF HACK-FLAG ELSE
 "A brisk wind gives you a deep chill, but you reenter the forest. Soon,
-you rejoint the road which now is running from east to west.")
+you rejoin the road which now is running from east to west.")
 
       (NW TO C6 IF HACK-FLAG ELSE
 "You leave the side of the roadway and enter the forest, proceeding a
