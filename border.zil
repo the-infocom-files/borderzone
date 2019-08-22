@@ -564,7 +564,7 @@ in the leg. You drop to the ground, injured, but alive.">)
 			     (T
 			      <TELL
 " They start to approach, weapons drawn." CR>)>
-		       <START-GUARD-CHASE>)
+		       <START-GUARD-CHASE .GD>)
 		      (T
 		       <TELL
 "The " D ,PRSO " falls to the ground, where it becomes lost in a soft
