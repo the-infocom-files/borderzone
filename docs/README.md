@@ -19,12 +19,10 @@ The following sources provide further information on Border Zone:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Border Zone listed in the Infocom Fact Sheet. It also holds the source files for version 9/871008 and a later, in progress, version.
-
-| Release | Serial | Story File                   | Zarf Sources            | Historical Sources |
-| -------:|:------:|:----------------------------:|:-----------------------:|:------------------:|
-|       9 | 871008 |   [borderzone-r9-s871008.z5] |     [borderzone-r9.zip] |       [revision 9] |
-|       - |      - |                            - | [borderzone-rlater.zip] |   [final revision] |
+| Release | Serial | Type | Story File                   | Obsessive Sources       | Historical Sources |
+| -------:|:------:|:----:|:----------------------------:|:-----------------------:|:------------------:|
+|       9 | 871008 |  PUB |   [borderzone-r9-s871008.z5] |     [borderzone-r9.zip] |       [revision 9] |
+|       - |      - |  WIP |                            - | [borderzone-rlater.zip] |   [final revision] |
 
 [borderzone-r9-s871008.z5]: https://eblong.com/infocom/gamefiles/borderzone-r9-s871008.z5
 [borderzone-r9.zip]: https://eblong.com/infocom/sources/borderzone-r9.zip
